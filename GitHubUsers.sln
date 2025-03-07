@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GitHubUsers.Server", "GitHubUsers.Server\GitHubUsers.Server.csproj", "{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "githubusers.client", "githubusers.client\githubusers.client.esproj", "{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6A2486BA-1D39-4ABC-BF4E-95B8699E4639}
+	EndGlobalSection
+EndGlobal
