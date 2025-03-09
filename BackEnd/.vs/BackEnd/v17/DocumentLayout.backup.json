@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{745B2EB3-A6CF-483A-97F5-90E4A7344CCC}|BackEnd.csproj|d:\\meus estudos\\projetos\\githubusers\\backend\\models\\githubuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745B2EB3-A6CF-483A-97F5-90E4A7344CCC}|BackEnd.csproj|solutionrelative:models\\githubuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{745B2EB3-A6CF-483A-97F5-90E4A7344CCC}|BackEnd.csproj|d:\\meus estudos\\projetos\\githubusers\\backend\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{745B2EB3-A6CF-483A-97F5-90E4A7344CCC}|BackEnd.csproj|solutionrelative:services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GitHubUserRequest.cs",
+              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Models\\GitHubUserRequest.cs",
+              "RelativeDocumentMoniker": "Models\\GitHubUserRequest.cs",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Models\\GitHubUserRequest.cs",
+              "RelativeToolTip": "Models\\GitHubUserRequest.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwBcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:25:29.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\UserService.cs",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAUwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T18:25:12.352Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

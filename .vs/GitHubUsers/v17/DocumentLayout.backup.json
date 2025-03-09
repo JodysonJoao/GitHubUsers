@@ -3,28 +3,20 @@
   "WorkspaceRootPath": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}|githubusers.client\\githubusers.client.esproj|d:\\meus estudos\\projetos\\githubusers\\githubusers.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}|githubusers.client\\githubusers.client.esproj|solutionrelative:githubusers.client\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}|githubusers.client\\githubusers.client.esproj|d:\\meus estudos\\projetos\\githubusers\\githubusers.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|",
-      "RelativeMoniker": "D:0:0:{40902C9C-8C8C-4625-862B-DBF35A2E6BA8}|githubusers.client\\githubusers.client.esproj|solutionrelative:githubusers.client\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}|"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Controllers\\GitHubController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Controllers\\GitHubController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|d:\\meus estudos\\projetos\\githubusers\\githubusers.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|solutionrelative:githubusers.server\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Models\\GitHubUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Models\\GitHubUserRequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|d:\\meus estudos\\projetos\\githubusers\\githubusers.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|solutionrelative:githubusers.server\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|d:\\meus estudos\\projetos\\githubusers\\githubusers.server\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|solutionrelative:githubusers.server\\controllers\\githubcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|d:\\meus estudos\\projetos\\githubusers\\githubusers.server\\models\\githubuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3F05840-0160-4043-BCA2-A9E4A8EA5B88}|GitHubUsers.Server\\GitHubUsers.Server.csproj|solutionrelative:githubusers.server\\models\\githubuserrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BackEnd\\Services\\UserService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,88 +26,62 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "index.html",
-              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\githubusers.client\\index.html",
-              "RelativeDocumentMoniker": "githubusers.client\\index.html",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\githubusers.client\\index.html*",
-              "RelativeToolTip": "githubusers.client\\index.html*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2025-03-07T22:36:52.437Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "GitHubUserRequest.cs",
-              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Models\\GitHubUserRequest.cs",
-              "RelativeDocumentMoniker": "GitHubUsers.Server\\Models\\GitHubUserRequest.cs",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Models\\GitHubUserRequest.cs",
-              "RelativeToolTip": "GitHubUsers.Server\\Models\\GitHubUserRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Program.cs",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Program.cs",
+              "RelativeToolTip": "BackEnd\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T22:26:22.321Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "App.jsx",
-              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\githubusers.client\\src\\App.jsx",
-              "RelativeDocumentMoniker": "githubusers.client\\src\\App.jsx",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\githubusers.client\\src\\App.jsx",
-              "RelativeToolTip": "githubusers.client\\src\\App.jsx",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
-              "WhenOpened": "2025-03-07T22:07:13.004Z",
+              "WhenOpened": "2025-03-09T16:53:24.095Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Program.cs",
-              "RelativeDocumentMoniker": "GitHubUsers.Server\\Program.cs",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Program.cs",
-              "RelativeToolTip": "GitHubUsers.Server\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Title": "GitHubUserRequest.cs",
+              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Models\\GitHubUserRequest.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Models\\GitHubUserRequest.cs",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Models\\GitHubUserRequest.cs",
+              "RelativeToolTip": "BackEnd\\Models\\GitHubUserRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:18:20.787Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GitHubController.cs",
-              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Controllers\\GitHubController.cs",
-              "RelativeDocumentMoniker": "GitHubUsers.Server\\Controllers\\GitHubController.cs",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Controllers\\GitHubController.cs",
-              "RelativeToolTip": "GitHubUsers.Server\\Controllers\\GitHubController.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAwAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T21:34:06.837Z",
+              "WhenOpened": "2025-03-09T16:50:27.602Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "UserService.cs",
-              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Services\\UserService.cs",
-              "RelativeDocumentMoniker": "GitHubUsers.Server\\Services\\UserService.cs",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\GitHubUsers.Server\\Services\\UserService.cs",
-              "RelativeToolTip": "GitHubUsers.Server\\Services\\UserService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCAAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Services\\UserService.cs",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs",
+              "RelativeToolTip": "BackEnd\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADYAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-07T20:25:00.292Z",
+              "WhenOpened": "2025-03-09T16:47:54.532Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GitHubController.cs",
+              "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Controllers\\GitHubController.cs",
+              "RelativeDocumentMoniker": "BackEnd\\Controllers\\GitHubController.cs",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Controllers\\GitHubController.cs",
+              "RelativeToolTip": "BackEnd\\Controllers\\GitHubController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T16:47:12.823Z",
               "EditorCaption": ""
             }
           ]
