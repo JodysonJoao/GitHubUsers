@@ -25,7 +25,7 @@ namespace BackEnd.Services
 
                 if (userResponse == null)
                 {
-                    return null; 
+                    return null;
                 }
 
                 var user = JsonSerializer.Deserialize<User>(userResponse, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
@@ -50,6 +50,7 @@ namespace BackEnd.Services
                 return null;
             }
         }
+
 
         private async Task<string> GetApiResponseAsync(string url)
         {

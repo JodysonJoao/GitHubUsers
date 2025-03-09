@@ -23,6 +23,8 @@ namespace BackEnd.Models
     public class UserRepository
     {
         public string Name { get; set; }
+
+        [JsonPropertyName("html_url")]
         public string Url { get; set; }
     }
 }

@@ -35,3 +35,4 @@ D:\Meus Estudos\Projetos\GitHubUsers\BackEnd\obj\Debug\net8.0\refint\BackEnd.dll
 D:\Meus Estudos\Projetos\GitHubUsers\BackEnd\obj\Debug\net8.0\BackEnd.pdb
 D:\Meus Estudos\Projetos\GitHubUsers\BackEnd\obj\Debug\net8.0\BackEnd.genruntimeconfig.cache
 D:\Meus Estudos\Projetos\GitHubUsers\BackEnd\obj\Debug\net8.0\ref\BackEnd.dll
+D:\Meus Estudos\Projetos\GitHubUsers\BackEnd\obj\Debug\net8.0\BackEnd.sourcelink.json
