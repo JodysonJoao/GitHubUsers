@@ -38,8 +38,7 @@
               "RelativeToolTip": "Controllers\\GitHubController.cs",
               "ViewState": "AgIAAA4AAAAAAAAAAADwvyYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-09T19:41:38.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-09T19:41:38.058Z"
             },
             {
               "$type": "Document",
@@ -47,9 +46,9 @@
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "Services\\UserService.cs",
-              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs*",
-              "RelativeToolTip": "Services\\UserService.cs*",
-              "ViewState": "AgIAABMAAAAAAAAAAAAUwCsAAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Services\\UserService.cs",
+              "RelativeToolTip": "Services\\UserService.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDYAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:25:12.352Z",
               "EditorCaption": ""
@@ -62,7 +61,7 @@
               "RelativeDocumentMoniker": "Models\\GitHubUserRequest.cs",
               "ToolTip": "D:\\Meus Estudos\\Projetos\\GitHubUsers\\BackEnd\\Models\\GitHubUserRequest.cs",
               "RelativeToolTip": "Models\\GitHubUserRequest.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwB4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAowB8AAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-09T18:25:29.193Z",
               "EditorCaption": ""

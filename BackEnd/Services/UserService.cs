@@ -1,8 +1,5 @@
-﻿using System.Net.Http;
+﻿using BackEnd.Models;
 using System.Text.Json;
-using System.Text.Json.Serialization;
-using System.Threading.Tasks;
-using BackEnd.Models;
 
 namespace BackEnd.Services
 {
@@ -40,7 +37,40 @@ namespace BackEnd.Services
 
                 var repos = JsonSerializer.Deserialize<List<UserRepository>>(reposResponse, new JsonSerializerOptions { PropertyNameCaseInsensitive = true });
 
+                var totalLanguages = new Dictionary<string, int>();
+
+                foreach (var repo in repos)
+                {
+                    var languagesUrl = $"https://api.github.com/repos/{username}/{repo.Name}/languages";
+                    var languagesResponse = await GetApiResponseAsync(languagesUrl);
+
+                    if (languagesResponse != null)
+                    {
+                        var languages = JsonSerializer.Deserialize<Dictionary<string, int>>(languagesResponse);
+                        repo.Languages = languages;
+
+                        foreach (var lang in languages)
+                        {
+                            if (totalLanguages.ContainsKey(lang.Key))
+                            {
+                                totalLanguages[lang.Key] += lang.Value;
+                            }
+                            else
+                            {
+                                totalLanguages[lang.Key] = lang.Value;
+                            }
+                        }
+                    }
+                }
+
+                string mostUsedLanguage = totalLanguages
+                    .OrderByDescending(l => l.Value)
+                    .Select(l => l.Key)
+                    .FirstOrDefault();
+
                 user.Repositories = repos;
+                user.LanguagesSom = totalLanguages;
+                user.MostUsedLanguage = mostUsedLanguage;
 
                 return user;
             }
@@ -50,6 +80,8 @@ namespace BackEnd.Services
                 return null;
             }
         }
+
+
 
 
         private async Task<string> GetApiResponseAsync(string url)

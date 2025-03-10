@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import LanguagePieChart from './LanguagesPieChart';
 import './App.css';
 
 const GitHubUserSearch = () => {
@@ -63,7 +64,7 @@ const GitHubUserSearch = () => {
           />
           <p>
             <a
-              href={userData.url}
+              href={userData.html_url}
               target="_blank"
               rel="noopener noreferrer"
               className="profile-link"
@@ -71,6 +72,10 @@ const GitHubUserSearch = () => {
               Ver perfil no GitHub
             </a>
           </p>
+
+          <h3>Grafico de uso de linguagens:</h3>
+          <LanguagePieChart languages={userData.languagesSom}/>
+
           <h3>Repositórios:</h3>
           <ul className="repositories-list">
             {userData.repositories.map((repo) => (

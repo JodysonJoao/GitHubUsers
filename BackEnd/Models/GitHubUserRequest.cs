@@ -18,6 +18,11 @@ namespace BackEnd.Models
         public string HtmlUrl { get; set; }
 
         public List<UserRepository> Repositories { get; set; }
+
+        public Dictionary<string, int> LanguagesSom { get; set; }
+
+        public string MostUsedLanguage { get; set; }
+
     }
 
     public class UserRepository
@@ -26,5 +31,7 @@ namespace BackEnd.Models
 
         [JsonPropertyName("html_url")]
         public string Url { get; set; }
+
+        public Dictionary<string, int> Languages { get; set; }
     }
 }
